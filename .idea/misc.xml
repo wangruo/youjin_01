@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/send_mail/pom.xml" />
+        <option value="$PROJECT_DIR$/sum_record/pom.xml" />
+        <option value="$PROJECT_DIR$/Utils/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/less_record/pom.xml" />
+        <option value="$PROJECT_DIR$/lac_to_json/pom.xml" />
+        <option value="$PROJECT_DIR$/base_station_lac/pom.xml" />
+        <option value="$PROJECT_DIR$/Grids/pom.xml" />
+        <option value="$PROJECT_DIR$/sum_online/pom.xml" />
+        <option value="$PROJECT_DIR$/count/pom.xml" />
+        <option value="$PROJECT_DIR$/grid_segment/pom.xml" />
+        <option value="$PROJECT_DIR$/grids_segment_merge/pom.xml" />
+        <option value="$PROJECT_DIR$/grids_merge_near/pom.xml" />
+        <option value="$PROJECT_DIR$/general_sum/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredPathMasks">
+      <list>
+        <option value="*hadoop*" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+

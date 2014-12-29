@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Grids/Grids.iml" filepath="$PROJECT_DIR$/Grids/Grids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Utils/Utils.iml" filepath="$PROJECT_DIR$/Utils/Utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base_station_lac/base_station_lac.iml" filepath="$PROJECT_DIR$/base_station_lac/base_station_lac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/count/count.iml" filepath="$PROJECT_DIR$/count/count.iml" />
+      <module fileurl="file://$PROJECT_DIR$/general_sum/general_sum.iml" filepath="$PROJECT_DIR$/general_sum/general_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grid_segment/grid_segment.iml" filepath="$PROJECT_DIR$/grid_segment/grid_segment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grids_merge_near/grids_merge_near.iml" filepath="$PROJECT_DIR$/grids_merge_near/grids_merge_near.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grids_segment_merge/grids_segment_merge.iml" filepath="$PROJECT_DIR$/grids_segment_merge/grids_segment_merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lac_to_json/lac_to_json.iml" filepath="$PROJECT_DIR$/lac_to_json/lac_to_json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/less_record/less_record.iml" filepath="$PROJECT_DIR$/less_record/less_record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/send_mail/send_mail.iml" filepath="$PROJECT_DIR$/send_mail/send_mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum_online/sum_online.iml" filepath="$PROJECT_DIR$/sum_online/sum_online.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum_record/sum_record.iml" filepath="$PROJECT_DIR$/sum_record/sum_record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
+

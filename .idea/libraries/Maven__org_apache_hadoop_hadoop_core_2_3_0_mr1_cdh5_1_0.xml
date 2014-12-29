@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-core:2.3.0-mr1-cdh5.1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/2.3.0-mr1-cdh5.1.0/hadoop-core-2.3.0-mr1-cdh5.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/2.3.0-mr1-cdh5.1.0/hadoop-core-2.3.0-mr1-cdh5.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-core/2.3.0-mr1-cdh5.1.0/hadoop-core-2.3.0-mr1-cdh5.1.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/ant" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/test/aop" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/test" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/tools" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/mapred" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/index/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/index/src/test" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/vaidya/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/failmon/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/gridmix/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/gridmix/src/test" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/fuse-dfs/src/test" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/thriftfs/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/thriftfs/test" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/thriftfs/gen-java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/data_join/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/data_join/src/test" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/data_join/src/examples" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/streaming/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/streaming/src/test" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/fairscheduler/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/fairscheduler/src/test" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/eclipse-plugin/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/capacity-scheduler/src/java" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/contrib/capacity-scheduler/src/test" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/examples" />
+      <root url="file://$PROJECT_DIR$/../cdh5.1.0/hadoop-mapreduce1-project/src/benchmarks/gridmix2/src/java" />
+    </SOURCES>
+  </library>
+</component>
