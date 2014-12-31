@@ -180,6 +180,10 @@ public class App extends Configured implements Tool {
                 }
             }
 
+            // 检查分隔后的数据
+            if(fields_str == null)
+                return;
+
             // 替换合并后的字段
             int i = 0;
             for (int id : fields) {
